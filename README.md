@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HaiPhamTien,
 - 👀 I’m interested in Digital IC Design,
 - 🌱 I’m currently learning using C, Cpp, Verilog, VI editor and Perl,
-- 📫 How to reach me through email phamtienhai2306@gmail.com.
+- 📫 You reach me through email phamtienhai2306@gmail.com.
 
 <!---
 HaiPhamTien/HaiPhamTien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
