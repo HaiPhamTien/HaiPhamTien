@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaiPhamTien,
 - 👀 I’m interested in Digital IC Design,
-- 🌱 I’m currently learning using C, Cpp, Verilog, 
+- 🌱 I’m currently learning using C, Cpp, Verilog, VI editor and Perl,
 - 📫 How to reach me through email phamtienhai2306@gmail.com.
 
 <!---
